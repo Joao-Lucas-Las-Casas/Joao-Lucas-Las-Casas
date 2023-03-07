@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Joao-Lucas-Las-Casas 😁
+## Bem-vindo(a) ao perfil do Joao-Lucas-Las-Casas 😁💬💻
 
  <div>
  
