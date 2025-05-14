@@ -1,31 +1,47 @@
-## Bem-vindo(a) ao perfil do Joao-Lucas-Las-Casas 😁💬💻
+<h1 align="center">👨‍💻 João Lucas Las Casas Alves</h1>
+<p align="center">Desenvolvedor Full Stack | Java, Spring Boot, React, Python & mais</p>
 
- <div>
- 
-   <a href="https://github.com/Joao-Lucas-Las-Casas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Las-Casas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-Las-Casas&layout=compact&langs_count=6&theme=tokyonight"/>
+---
 
+### 👋 Sobre mim
+Sou um desenvolvedor em formação com foco em aplicações web completas, tanto no front-end quanto no back-end. Tenho experiência prática com projetos reais, como o sistema FastQuote e a plataforma e-commerce CodeGrill.
+
+---
+
+### 🛠️ Tecnologias que utilizo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🔥 Projetos em destaque
+
+📌 [FastQuote](https://github.com/Joao-Lucas-Las-Casas/FastQuote)  
+Sistema de cotação automatizado com integração Java + Tailwind, geração de PDF e envio por e-mail.
+
+📌 [CodeGrill – API](https://github.com/Joao-Lucas-Las-Casas/hamburguer-api)  
+API RESTful de e-commerce com Spring Boot e MySQL.
+
+📌 [CodeGrill – Frontend](https://github.com/Joao-Lucas-Las-Casas/codegrill-frontend)  
+Interface com React, layout responsivo e foco em usabilidade.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Las-Casas&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-Las-Casas&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
-<div style="display: inline_block"><br>
+---
 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
- 
- <br>
- 
-  ### Minha redes sociais!
- 
-<div> 
-  
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Joao-Lucas-Las-Casas/Joao-Lucas-Las-Casas/blob/output/github-contribution-grid-snake.svg)
+### 📫 Onde me encontrar
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaolucasdev-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaolucas-dev)
+📧 joao.lasjlucash@gmail.com
