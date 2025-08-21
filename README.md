@@ -1,15 +1,15 @@
-<h1 align="center">👨‍💻 João Lucas Las Casas Alves</h1>
+<h1 align="center"> João Lucas Las Casas Alves</h1>
 <p align="center">Desenvolvedor Full Stack | Java, Spring Boot, React, Tailwind, Python, Git & mais</p>
 
 ---
 
-### 🔥 Sobre mim
+### Sobre mim
 
 Sou um desenvolvedor em formação com foco em aplicações web completas, tanto no front-end quanto no back-end. Tenho experiência prática com projetos reais, como o sistema **FastQuote** e a plataforma e-commerce **CodeGrill**, aplicando boas práticas de integração entre as tecnologias.
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+### Tecnologias que utilizo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -26,7 +26,7 @@ Sou um desenvolvedor em formação com foco em aplicações web completas, tanto
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 🔹 [**FastQuote**](https://github.com/Joao-Lucas-Las-Casas/FastQuote)  
 Sistema de cotação automatizado com integração Java + Tailwind, geração de PDF e envio por e-mail.
@@ -39,7 +39,7 @@ Interface com React e Tailwind, layout responsivo e foco em usabilidade.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Las-Casas&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -48,7 +48,7 @@ Interface com React e Tailwind, layout responsivo e foco em usabilidade.
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaolucas-dev" target="_blank">
